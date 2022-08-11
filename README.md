@@ -1,2 +1,2 @@
 # kunniffe.github.io
-Static portfolio site built with Gatsby, Styled Components and GitHub Pages
+Static portfolio site built with Gatsby, Emotion and GitHub Pages
